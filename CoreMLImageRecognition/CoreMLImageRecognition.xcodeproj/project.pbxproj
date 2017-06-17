@@ -22,6 +22,7 @@
 		9D0211CB1EF4D68500F62E2A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D0211CE1EF4D68500F62E2A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D0211D01EF4D68500F62E2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D0211D61EF4E5FF00F62E2A /* Inceptionv3.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = Inceptionv3.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				9D0211CB1EF4D68500F62E2A /* Assets.xcassets */,
 				9D0211CD1EF4D68500F62E2A /* LaunchScreen.storyboard */,
 				9D0211D01EF4D68500F62E2A /* Info.plist */,
+				9D0211D61EF4E5FF00F62E2A /* Inceptionv3.mlmodel */,
 			);
 			path = CoreMLImageRecognition;
 			sourceTree = "<group>";
