@@ -1,4 +1,4 @@
-//
+//  http://www.appcoda.com/coreml-introduction/
 //  AppDelegate.swift
 //  CoreMLImageRecognition
 //
